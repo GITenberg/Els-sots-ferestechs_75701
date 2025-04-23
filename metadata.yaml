@@ -1,0 +1,37 @@
+_repo: Els-sots-ferestechs_75701
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Casellas, Raimón
+    aliases:
+    - Casellas, Raimon
+    - Dou, Raimundo Casellas y
+    - Dou, Raimon Casellas i
+    - Casellas, Raymon
+    birthdate: 1855
+    deathdate: 1910
+    gutenberg_agent_id: '9188'
+    url: http://www.gutenberg.org/2009/agents/9188
+    wikipedia: https://en.wikipedia.org/wiki/Raimon_Casellas
+description: 'Wikipedia page about this book: https://ca.wikipedia.org/wiki/Els_sots_fer%C3%A9stecs'
+gutenberg_issued: '2025-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75701'
+language: ca
+pgterms:marc905: 20250323122526casellas
+pgterms:marc906: '1901'
+pgterms:marc907: ES
+production_note: 'Editor digital: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bLlibreria de Francisco Puig, $c1901.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Priests -- Fiction'
+- !lcsh 'Catalan fiction'
+- !lcsh 'Catalonia (Spain) -- Fiction'
+- !lcc 'PC'
+- GITenberg
+title: Els sots feréstechs
+url: http://www.gutenberg.org/ebooks/75701
