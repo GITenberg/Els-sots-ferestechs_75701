@@ -1,5 +1,8 @@
 _repo: Els-sots-ferestechs_75701
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75701-h/images/cover.jpg
 creator:
   author:
     agent_name: Casellas, Raimón
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9188
     wikipedia: https://en.wikipedia.org/wiki/Raimon_Casellas
 description: 'Wikipedia page about this book: https://ca.wikipedia.org/wiki/Els_sots_fer%C3%A9stecs'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75701#Els-sots-ferestechs
 gutenberg_issued: '2025-03-24'
 gutenberg_type: Text
 identifiers:
